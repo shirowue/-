@@ -50,6 +50,10 @@ https://anime-pictures.net/ | 壁纸网站
 ~~https://freenetproject.org/~~ | 深网（至于怎么进，知道的估计也不用我教）
 http://www.everysecond.io/ | 世界数据统计
 http://www.gfxcamp.com/ | 龋齿一号（贼溜）
+http://www.xjltp.com/ | 星明天文台（面向爱好者与大众的免费线上天文台，申请成功后即可调用位于新疆的天文望远镜观察和追踪拍摄）
+https://www.spacetelescope.org | 哈勃望远镜(能找到哈勃望远镜拍的星云图)
+https://www.opengps.cn | 高精度IP地址定位
+http://lang-8.com/ | 多国语言学习交流平台（在上面你可以和外国人交流，大家可以互相帮助修改文章）
 https://sorry.xuty.tk/sorry/ | 表情包（不用怕没有表情包gif用）
 https://www.1688.com/ | 批发商网站
 https://zh.forvo.com/user/hikari1/pronounced-words/page-2/ | 学语言发音（找好听声音的小姐姐聊天）
