@@ -6,9 +6,11 @@
 
 ### 学校：浙江万里学院
 
+### 班级：通信191
+
 ### 邮箱：2212262900@qq.com
 
-### 地址：在这山的那边海的那边有一群~~蓝精灵~~
+### 地址：在这山的那边海的那边~~
 
 ```
 
@@ -45,7 +47,7 @@ https://learningmusic.ableton.com/ | 可以试着自己整整音乐
 http://www.shushubuyue.net/# | 匿名聊天（跟好早好早年前qq里聊天时的那种气氛）
 http://www.fotojet.com/ | 在线图形编辑
 https://anime-pictures.net/ | 壁纸网站
-暂时不开放 | 深网
+~~https://freenetproject.org/~~ | 深网（至于怎么进，知道的估计也不用我教）
 http://www.everysecond.io/ | 世界数据统计
 http://www.gfxcamp.com/ | 龋齿一号（贼溜）
 https://sorry.xuty.tk/sorry/ | 表情包（不用怕没有表情包gif用）
