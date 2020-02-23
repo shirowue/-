@@ -66,3 +66,6 @@ https://www.wix.com/ | 做网站（服务器自己整）
 http://ddrkirby.com/games/melody-muncher/melody-muncher.html | 大佬在音游大赛中48小时做出来的一款游戏
 http://i-remember.fr/en/ | 记忆，分享来自全世界的回忆
 http://nazo.one-story.cn/ | 解密（死活玩不过）
+https://www.msdmanuals.com/zh#mission | 默沙东诊疗手册，要是生病了，这个蛮有用的
+https://www.materialtools.com/?page=1 | 临时验证码
+http://asoftmurmur.com/ | 背景音合成器
